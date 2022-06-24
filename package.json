@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "name": "csv-parser",
+  "version": "1.0.0",
+  "description": "simple csv parser",
+  "main": ".out/index.js",
+  "scripts": {
+    "build": "tsc --build"
+  },
+  "author": "github.com/ikasoba",
+  "license": "MIT"
+}
